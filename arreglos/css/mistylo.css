@@ -1,0 +1,28 @@
+button {
+    border-width: 3px;
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Tahoma;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+      background-color: rgb(165, 49, 136);
+      border-radius: 5px;
+      border: 3px dotted rgb(233, 169, 230);
+      padding: 13px;
+  }
+  p{
+      
+    color: #fffefe;
+
+    font-size: 40px;
+    font-style: initial;
+    margin: 5px auto;
+}
+body{
+    background-color: rgb(7, 7, 7);
+
+}
